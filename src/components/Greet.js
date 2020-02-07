@@ -6,6 +6,6 @@ import React from 'react'
 
 //ali boljši način - v app.js imports 
 //mora Greet bit obveznov zavitih oklepajih !!!
- export const Greet = () => <h1>Hello my friend</h1>
+const Greet = () => <h1>Hello my friend</h1>
 
-//export default Greet
+export default Greet
